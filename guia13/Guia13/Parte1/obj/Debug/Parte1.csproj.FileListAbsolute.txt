@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\bin\Debug\Parte1.exe.config
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\bin\Debug\Parte1.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\bin\Debug\Parte1.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\obj\Debug\Parte1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\obj\Debug\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\obj\Debug\Parte1.exe
+C:\Users\Alumno\Desktop\Nueva carpeta\guia13\Guia13\Parte1\obj\Debug\Parte1.pdb
